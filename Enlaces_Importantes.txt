@@ -1,0 +1,12 @@
+Enlaces que he usado para aprender más:
+https://docs.python.org/3/
+https://pandas.pydata.org/docs/reference/api/
+
+https://datamanagement.es/2019/10/13/proceso-etl-con-python-desde-cero-y-paso-a-paso/
+https://www.geeksforgeeks.org/python-pandas-series-agg/
+https://saturncloud.io/blog/how-to-get-row-number-in-dataframe-in-pandas/
+
+--extras--
+Como hacer un singleton que respete orden de hilos en Python:
+https://refactoring.guru/es/design-patterns/singleton/python/example#example-1
+

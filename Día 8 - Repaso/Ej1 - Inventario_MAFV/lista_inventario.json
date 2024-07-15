@@ -1,0 +1,26 @@
+[
+    {
+        "id":"PC-MAQG9",
+        "nombre":"Hola",
+        "cantidad":100,
+        "precio":90.1
+    },
+    {
+        "id":"PC-MI6NY",
+        "nombre":"Portatil DELL Latitude 808",
+        "cantidad":10,
+        "precio":599.0
+    },
+    {
+        "id":"PC-8C26Y",
+        "nombre":"Trabuco",
+        "cantidad":99,
+        "precio":4.5
+    },
+    {
+        "id":"PC-MWEI5",
+        "nombre":"Uno",
+        "cantidad":1,
+        "precio":1.0
+    }
+]

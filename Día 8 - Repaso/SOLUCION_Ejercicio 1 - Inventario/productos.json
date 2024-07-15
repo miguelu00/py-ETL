@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Port\u00e1til",
+        "cantidad": 10,
+        "precio": 899.99,
+        "id": "PC-GPTJLR"
+    },
+    {
+        "nombre": "Teclado",
+        "cantidad": 50,
+        "precio": 39.99,
+        "id": "PC-3OA6UQ"
+    },
+    {
+        "nombre": "Rat\u00f3n",
+        "cantidad": 30,
+        "precio": 19.99,
+        "id": "PC-GL5SBB"
+    },
+    {
+        "nombre": "Disco Duro Externo",
+        "cantidad": 15,
+        "precio": 129.99,
+        "id": "PC-IU4RTG"
+    }
+]

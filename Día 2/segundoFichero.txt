@@ -1,0 +1,4 @@
+Es mi segunda linea.
+Es mi tercera linea.
+Es el final del fichero!
+Es mi primera linea.
